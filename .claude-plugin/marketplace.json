@@ -909,6 +909,18 @@
         "ref": "main"
       },
       "homepage": "https://github.com/awslabs/agent-plugins"
+    },
+    {
+      "name": "migration-to-aws",
+      "description": "Assess current cloud provider usage and billing to estimate and compare AWS services and pricing, with recommendations for migration or continued use of current provider.",
+      "category": "migration",
+      "source": {
+        "source": "git-subdir",
+        "url": "https://github.com/awslabs/agent-plugins.git",
+        "path": "plugins/migration-to-aws",
+        "ref": "main"
+      },
+      "homepage": "https://github.com/awslabs/agent-plugins"
     }
   ]
 }
